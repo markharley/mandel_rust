@@ -1,0 +1,9 @@
+[package]
+name = "mandel_rust"
+version = "0.1.0"
+authors = ["Mark Harley <ms.harley89@gmail.com>"]
+
+[dependencies]
+num = "*"
+image = "*"
+crossbeam = "*"

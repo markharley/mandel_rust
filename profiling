@@ -1,0 +1,9 @@
+Single thread: mandel.png 1000x750 -1.20,0.35 -1,0.20
+real    0m5.297s
+user    0m5.286s
+sys 0m0.010s
+
+Concurrent (8 threads): mandel.png 1000x750 -1.20,0.35 -1,0.20
+real    0m0.092s
+user    0m0.274s
+sys 0m0.011s
